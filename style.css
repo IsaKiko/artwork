@@ -1,0 +1,21 @@
+.title{
+	color:red;
+	font-size:20px;
+	text-decoration: underline;
+}
+
+.text{
+	color: blue;
+}
+
+.image{
+	width: 250px;
+	position: relative;
+	left: 20px;
+}
+
+.sarcasm{
+	fill: olivedrab;
+	stroke: orangered;
+	stroke-width: 5;
+}
